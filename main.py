@@ -11,13 +11,6 @@ print(f"Executing bot with Python version: {sys.version}")
 with open("bot_token.txt", "r") as f:
     bot_token = f.readline()
 
-with open("words/ita_less.txt", "r") as f:
-    with open("words/ita_5_less.txt", "w+") as g:
-        while line := f.readline():
-            if len(line) == 6:
-                g.write(line)
-
-
 bot = WordleBot()
 
 active_games = {}

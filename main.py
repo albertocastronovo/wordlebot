@@ -16,6 +16,13 @@ bot = WordleBot()
 active_games = {}
 
 wordle_regex = compile("^w[ \t\r\n\f]+[A-zÀ-ú]{5}$")
+valid_word = compile("^[A-zÀ-ú]{5}\n$")
+
+with open("words/ita_5.txt", "w") as w:
+    with open("words/ita_all.txt", "r") as r:
+        while line := r.readline():
+            if match(valid_word, line):
+                w.write(line)
 
 
 @bot.event

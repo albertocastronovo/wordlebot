@@ -12,7 +12,6 @@ fabio
 fassa
 gaeta
 gauss
-gesù
 giove
 giuda
 golia
@@ -35,7 +34,6 @@ marta
 marte
 mauro
 monza
-mosè
 nizza
 orfeo
 paola
@@ -80,7 +78,6 @@ adagi
 adamo
 addii
 addio
-addì
 adira
 adiri
 adiro
@@ -141,7 +138,6 @@ altro
 alvei
 alveo
 alzai
-alzò
 amaca
 amami
 amano
@@ -174,7 +170,6 @@ anche
 ancor
 andai
 andar
-andò
 anima
 anime
 animi
@@ -189,7 +184,6 @@ apice
 apici
 appai
 aprii
-aprì
 arano
 arare
 arata
@@ -205,7 +199,6 @@ ardua
 ardue
 ardui
 arduo
-ardì
 arena
 arene
 areni
@@ -216,7 +209,6 @@ aridi
 arido
 arino
 armai
-armò
 arnia
 aroma
 aromi
@@ -265,8 +257,6 @@ avidi
 avido
 avrai
 avrei
-avrà
-avrò
 avuta
 avute
 avuti
@@ -282,7 +272,6 @@ bachi
 bacia
 bacio
 badai
-badò
 baffi
 baffo
 bagna
@@ -312,7 +301,6 @@ barbe
 barca
 barra
 barre
-barò
 basai
 bassa
 basse
@@ -321,7 +309,6 @@ basso
 basta
 basti
 basto
-basò
 batta
 batte
 batti
@@ -454,10 +441,6 @@ busto
 butta
 butti
 butto
-c'era
-c'eri
-c'ero
-c'hai
 cacao
 cacca
 cacce
@@ -491,7 +474,6 @@ calza
 calze
 calzi
 calzo
-calò
 cambi
 campa
 campi
@@ -506,7 +488,6 @@ cappa
 cappe
 capra
 capre
-capì
 cardi
 carne
 carni
@@ -533,26 +514,22 @@ caute
 cauti
 cauto
 cavai
-cavò
 cazzo
 cedei
 cedri
 cedro
-cedé
 ceffo
 celai
 celia
 celie
 cella
 celle
-celò
 cenai
 cenci
 cenni
 cenno
 censo
 cento
-cenò
 ceppo
 cerca
 cerco
@@ -570,9 +547,6 @@ cesta
 cesti
 cetra
 cetre
-ch'ei
-ch'io
-ch'è
 cheti
 cheto
 chili
@@ -598,13 +572,11 @@ cinse
 cinta
 cinti
 cinto
-cioè
 circa
 circo
 ciste
 cisti
 citai
-citò
 clero
 clima
 climi
@@ -634,8 +606,6 @@ colte
 colti
 colto
 colui
-colà
-colò
 conca
 conci
 conia
@@ -680,13 +650,11 @@ costa
 coste
 costi
 costo
-così
 cotta
 cotte
 cotti
 cotto
 covai
-covò
 cozza
 cozze
 cozzi
@@ -707,7 +675,6 @@ crepi
 crepo
 creta
 crete
-creò
 crini
 crisi
 croce
@@ -736,13 +703,6 @@ curva
 curve
 curvi
 curvo
-curò
-d'api
-d'ora
-d'oro
-d'una
-d'uso
-d'uva
 dacci
 dagli
 daini
@@ -772,11 +732,8 @@ darne
 darsi
 darti
 darvi
-darà
-darò
 datai
 datti
-datò
 dazio
 debba
 debbo
@@ -835,8 +792,6 @@ dirne
 dirsi
 dirti
 dirvi
-dirà
-dirò
 disco
 disse
 dissi
@@ -852,12 +807,10 @@ dolce
 dolci
 dolse
 domai
-domò
 donai
 donde
 donna
 donne
-donò
 doppi
 dorma
 dorme
@@ -867,13 +820,11 @@ dorsi
 dorso
 dosai
 dosso
-dosò
 dotai
 dotta
 dotte
 dotti
 dotto
-dotò
 dover
 draga
 drago
@@ -884,7 +835,6 @@ duole
 duomi
 duomo
 durai
-durò
 ebano
 ebbri
 ebbro
@@ -945,7 +895,6 @@ erigi
 erigo
 erode
 errai
-errò
 esame
 esami
 esche
@@ -991,7 +940,6 @@ falsa
 false
 falsi
 falso
-falò
 fammi
 fango
 fanne
@@ -1010,8 +958,6 @@ farne
 farsi
 farti
 farvi
-farà
-farò
 fasce
 fasci
 fasti
@@ -1036,7 +982,6 @@ fermi
 fermo
 ferri
 ferro
-ferì
 fessa
 fesse
 fessi
@@ -1057,7 +1002,6 @@ ficco
 fiche
 fichi
 fidai
-fidò
 fiele
 fieni
 fieno
@@ -1068,7 +1012,6 @@ fiero
 figli
 filai
 filza
-filò
 finge
 fingi
 fingo
@@ -1079,7 +1022,6 @@ finta
 finte
 finti
 finto
-finì
 fioca
 fioco
 fiore
@@ -1104,7 +1046,6 @@ fiuti
 fiuto
 flora
 fluii
-fluì
 foche
 fogli
 fogna
@@ -1137,7 +1078,6 @@ forza
 forze
 forzi
 forzo
-forò
 fosca
 fosco
 fossa
@@ -1173,10 +1113,8 @@ fuggi
 fuggo
 fughe
 fughi
-fugò
 fumai
 fummo
-fumò
 funge
 fungo
 fuoco
@@ -1212,7 +1150,6 @@ gazza
 gelai
 gelsi
 gelso
-gelò
 gemma
 gemme
 genia
@@ -1237,7 +1174,6 @@ giara
 giare
 gigli
 gilet
-gilè
 gioca
 gioco
 giogo
@@ -1247,9 +1183,7 @@ gioii
 giova
 giovi
 giovo
-gioì
 girai
-girò
 giura
 giuri
 giuro
@@ -1315,7 +1249,6 @@ gusta
 gusti
 gusto
 hanno
-ideò
 idoli
 idolo
 ignea
@@ -1341,25 +1274,6 @@ istmo
 itera
 iteri
 itero
-l'afa
-l'ago
-l'ala
-l'ami
-l'amo
-l'ano
-l'ape
-l'eco
-l'hai
-l'han
-l'ira
-l'oca
-l'ora
-l'oro
-l'ufo
-l'una
-l'uno
-l'uso
-l'uva
 lacca
 lacci
 ladra
@@ -1399,7 +1313,6 @@ lauro
 laute
 lauto
 lavai
-lavò
 lazzi
 leale
 leali
@@ -1416,7 +1329,6 @@ leghi
 legna
 legni
 legno
-legò
 lembi
 lembo
 lenta
@@ -1444,7 +1356,6 @@ lette
 letti
 letto
 levai
-levò
 lezzo
 liana
 libra
@@ -1482,7 +1393,6 @@ litro
 liuti
 liuto
 lodai
-lodò
 lorda
 lorde
 lordi
@@ -1502,7 +1412,6 @@ lussi
 lusso
 lutti
 lutto
-m'ero
 madia
 madie
 madre
@@ -1572,8 +1481,6 @@ menta
 mente
 menti
 mento
-menò
-menù
 merce
 merci
 merda
@@ -1593,7 +1500,6 @@ metta
 mette
 metti
 metto
-metà
 mezza
 mezze
 mezzi
@@ -1612,7 +1518,6 @@ miope
 miopi
 mirai
 mirto
-mirò
 mista
 miste
 misti
@@ -1628,7 +1533,6 @@ molta
 molte
 molti
 molto
-molò
 monca
 monco
 monda
@@ -1652,7 +1556,6 @@ morta
 morte
 morti
 morto
-morì
 mosca
 mosci
 mossa
@@ -1683,7 +1586,6 @@ musei
 museo
 mutai
 mutui
-mutò
 nafta
 nafte
 nappa
@@ -1701,7 +1603,6 @@ negra
 negre
 negri
 negro
-negò
 nella
 nelle
 nello
@@ -1726,7 +1627,6 @@ norme
 notai
 notte
 notti
-notò
 nozze
 nuche
 nulla
@@ -1753,11 +1653,9 @@ obero
 oblia
 oblii
 oblio
-oblò
 occhi
 odiai
 odino
-odiò
 odono
 odora
 odore
@@ -1767,15 +1665,12 @@ offra
 offre
 offri
 offro
-oibò
-oimè
 oliai
 olino
 oliva
 olive
 olivi
 olivo
-oliò
 oltre
 ombra
 ombre
@@ -1801,7 +1696,6 @@ opini
 opino
 oppio
 optai
-optò
 orafa
 orafe
 orafi
@@ -1811,13 +1705,9 @@ orali
 orari
 orchi
 ordii
-ordì
 orlai
-orlò
 ormai
 ornai
-ornò
-orsù
 osano
 osare
 osata
@@ -1839,7 +1729,6 @@ ovvia
 ovvio
 oziai
 ozino
-oziò
 pacca
 pacco
 padre
@@ -1850,7 +1739,6 @@ pagai
 paggi
 paghe
 paghi
-pagò
 palco
 palio
 palla
@@ -1883,7 +1771,6 @@ parte
 parti
 parto
 parve
-parò
 pasce
 passa
 passi
@@ -1910,7 +1797,6 @@ pegno
 pelai
 pelle
 pelli
-pelò
 penai
 penda
 pende
@@ -1922,7 +1808,6 @@ pensa
 pensi
 penso
 pento
-penò
 perda
 perde
 perdi
@@ -1935,7 +1820,6 @@ persa
 perse
 persi
 perso
-però
 pesai
 pesca
 pesce
@@ -1945,7 +1829,6 @@ pesta
 peste
 pesti
 pesto
-pesò
 petti
 petto
 pezza
@@ -2044,12 +1927,9 @@ posta
 poste
 posti
 posto
-posò
 potai
 potei
 poter
-poté
-potò
 pozza
 pozze
 pozzi
@@ -2104,7 +1984,6 @@ pulii
 pulsa
 pulsi
 pulso
-pulì
 punge
 pungi
 pungo
@@ -2134,7 +2013,6 @@ radio
 raggi
 ragni
 ragno
-ragù
 ramai
 rampa
 rampe
@@ -2142,14 +2020,11 @@ ranci
 rango
 rapai
 rapii
-rapì
-rapò
 rasai
 rasoi
 raspa
 raspi
 raspo
-rasò
 rateo
 ratti
 ratto
@@ -2167,7 +2042,6 @@ reato
 rebus
 recai
 rechi
-recò
 regge
 reggi
 reggo
@@ -2175,7 +2049,6 @@ regna
 regni
 regno
 remai
-remò
 renda
 rende
 rendi
@@ -2197,7 +2070,6 @@ ribes
 ricca
 ricci
 ricco
-ridò
 righe
 rione
 rioni
@@ -2241,7 +2113,6 @@ rozze
 rozzi
 rozzo
 rubai
-rubò
 rughe
 rulla
 rulli
@@ -2254,7 +2125,6 @@ ruppe
 russa
 russi
 russo
-s'era
 sacca
 sacco
 sacra
@@ -2287,8 +2157,6 @@ salva
 salve
 salvi
 salvo
-salì
-salò
 sanai
 sanno
 sansa
@@ -2296,7 +2164,6 @@ santa
 sante
 santi
 santo
-sanò
 saper
 sappi
 sarai
@@ -2306,8 +2173,6 @@ sarta
 sarte
 sarti
 sarto
-sarà
-sarò
 sassi
 sasso
 savia
@@ -2342,7 +2207,6 @@ scesa
 scese
 scesi
 sceso
-sciò
 scoli
 scolo
 scopa
@@ -2367,7 +2231,6 @@ secco
 sedai
 sedia
 sedie
-sedò
 segga
 seggi
 seggo
@@ -2470,7 +2333,6 @@ socia
 socio
 sodio
 soffi
-sofà
 sogna
 sogni
 sogno
@@ -2491,7 +2353,6 @@ sonni
 sonno
 sopii
 sopra
-sopì
 sorci
 sorda
 sorde
@@ -2600,7 +2461,6 @@ sturi
 sturo
 succo
 sudai
-sudò
 sughi
 sugli
 sugna
@@ -2630,11 +2490,6 @@ sviso
 svita
 sviti
 svito
-sviò
-t'ama
-t'amo
-t'era
-t'eri
 tacci
 tacco
 tagli
@@ -2680,7 +2535,6 @@ telai
 temei
 tempi
 tempo
-temé
 tenda
 tende
 tendo
@@ -2743,7 +2597,6 @@ tinte
 tinti
 tinto
 tirai
-tirò
 tizia
 tizie
 tizio
@@ -2798,7 +2651,6 @@ tosta
 toste
 tosti
 tosto
-tosò
 tozza
 tozze
 tozzi
@@ -2831,7 +2683,6 @@ trovo
 truce
 truci
 tubai
-tubò
 tuffa
 tuffi
 tuffo
@@ -2850,7 +2701,6 @@ turni
 turno
 turpe
 turpi
-turò
 tutta
 tutte
 tutti
@@ -2893,9 +2743,7 @@ univa
 univi
 univo
 urlai
-urlò
 urtai
-urtò
 usala
 usali
 usano
@@ -2910,7 +2758,6 @@ usavo
 uscii
 uscio
 uscir
-uscì
 usino
 usura
 usure
@@ -2924,8 +2771,6 @@ vaghe
 vaghi
 vagii
 vagli
-vagì
-vagò
 valga
 valgo
 valle
@@ -2945,7 +2790,6 @@ varco
 varia
 varie
 vario
-varò
 vasca
 vasta
 vaste
@@ -2957,7 +2801,6 @@ vegli
 velai
 velli
 vello
-velò
 venda
 vende
 vendi
@@ -3028,7 +2871,6 @@ violi
 violo
 virai
 virus
-virò
 vispa
 vispe
 vispi
@@ -3045,7 +2887,6 @@ vizia
 vizio
 vogai
 voghi
-vogò
 volai
 voler
 volga
@@ -3062,8 +2903,6 @@ volta
 volte
 volti
 volto
-volò
-votò
 vuole
 vuota
 vuote

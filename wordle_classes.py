@@ -96,8 +96,8 @@ class Game:
         if no_green < self.__length and self.__board.attempt >= self.__max_attempts:    # EOG fail
             content = f"You couldn't guess the word right! :( The word was '{self.__word.upper()}'"
             return -1, View(), content
-        elif no_green == self.__length and self.__board.attempt < self.__max_attempts:  # EOG success
-            content = "Congratulations! You guessed right!"
+        elif no_green == self.__length and self.__board.attempt <= self.__max_attempts:  # EOG success
+            content = f"Congratulations! You guessed right! The word was '{self.__word.upper()}'"
             return 1, View(), content
 
         button_list = [Button(style=color_list[i],
